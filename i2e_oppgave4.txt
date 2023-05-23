@@ -1,0 +1,28 @@
+//  
+Skriv noen avsnitt om følgende: 
+    - hvordan dokumentasjonen best kan tilgjengeliggjøres og presenteres for sluttbruker (ekstern og/eller kollega)
+    - hvilke nyttige verktøy/applikasjoner som kan utvikles basert på XML-filen og datagrunnlaget
+//
+
+
+Det er nærliggende å se for seg et brukergrensesnitt som tilbyr sluttbruker muligheten til å søke etter spesifikke spørsmål, undersøkelser og gjennomføringer av undersøkelser. 
+Nyttige funksjoner kunne f.eks. vært muligheten til å filtrere etter type spørsmål, tema, tidsperiode for undersøkelsen(e) osv. Ved hjelp av lignende kode fra Oppgave 2 og Oppgave 3 
+kunne grensesnittet presentert spørsmålsteksten og svaralternativene i sin helhet.
+
+I et web-miljø kunne grensesnittet inkludert en tjeneste som fortløpende genererer frekvenstabeller, grafer og annen visuell representering av dokumentasjonen og datasettet (basert på brukerinput). 
+Det ville trolig også vært nyttig for interne å ha mulighet til å redigere XML-filer (spørsmålstekst, -alternativer osv.) i et intuitivt GUI. 
+
+Slike verktøy forutsetter naturligvis god dokumentasjon for (sikker og effektiv) bruk.
+
+
+
+
+
+
+
+
+
+
+
+
+
